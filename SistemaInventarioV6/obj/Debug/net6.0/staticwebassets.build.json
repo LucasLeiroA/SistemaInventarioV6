@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zHsk+ygsJwpjNIqTPcg8YaJCi/YcGihv/x5q9YNxhOI=",
+  "Hash": "0Wk6eDaLHz0eHef0ZOAZ2QEsxaKQixNpU2V6zwIarFE=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\bodega.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
     },
     {
       "Identity": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",
