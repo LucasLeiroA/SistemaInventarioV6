@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SistemaInventario.Modelos",
-    "\\SistemaInventarioV6\\Views\\Shared"
+    "\\SistemaInventario.Modelos"
   ],
-  "SelectedNode": "\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj",
   "PreviewInSolutionExplorer": false
 }

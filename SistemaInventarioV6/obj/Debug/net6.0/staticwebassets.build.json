@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CmkxtDunSBOz9gwxolYYDwywUE8wI3/IVfgqH796ZLQ=",
+  "Hash": "NMi0uprd/06qm4H+d3sECRNx3jiU9NOjSYkjylZnv6Y=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1105,6 +1105,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\77d6ac72-653d-4652-b68a-28253a9c2c93.JPG",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "imagenes/producto/77d6ac72-653d-4652-b68a-28253a9c2c93.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\77d6ac72-653d-4652-b68a-28253a9c2c93.JPG"
+    },
+    {
       "Identity": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\bodega.js",
       "SourceId": "SistemaInventario",
       "SourceType": "Discovered",
@@ -1154,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\marca.js"
+    },
+    {
+      "Identity": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\produc.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/produc.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\produc.js"
     },
     {
       "Identity": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",

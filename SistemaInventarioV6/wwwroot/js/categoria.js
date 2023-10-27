@@ -1,13 +1,11 @@
-﻿let dataTable;
+﻿let datatable;
 
 $(document).ready(function () {
     loadDataTable();
-
 });
 
-
 function loadDataTable() {
-    dataTable = $('#tblDatos').DataTable({
+    datatable = $('#tblDatos').DataTable({
         "language": {
             "lengthMenu": "Mostrar _MENU_ Registros Por Pagina",
             "zeroRecords": "Ningun Registro",
@@ -23,44 +21,41 @@ function loadDataTable() {
             }
         },
         "ajax": {
-            "url":"/Admin/Categoria/ObtenerTodos"
+            "url": "/Admin/Categoria/ObtenerTodos"
         },
         "columns": [
             { "data": "nombre", "width": "20%" },
-            { "data": "descripcion", "width": "20%" },
+            { "data": "descripcion", "width": "40%" },
             {
                 "data": "estado",
                 "render": function (data) {
-                    if (data === true) {
+                    if (data == true) {
                         return "Activo";
-                    } else {
-                        return "Inactivo"
                     }
-                },"width": "20%"
+                    else {
+                        return "Inactivo";
+                    }
+                }, "width": "20%"
             },
             {
                 "data": "id",
                 "render": function (data) {
                     return `
-                    
                         <div class="text-center">
-                            <a href="/Admin/Categoria/Upsert/${data}" class="btn btn-success text-white" style="cursor:pointer" >
-                                <i class="bi bi-pencil-square"></i>
-                            </a>
-                            <a onclick=Delete("/Admin/Categoria/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer")>
+                           <a href="/Admin/Categoria/Upsert/${data}" class="btn btn-success text-white" style="cursor:pointer">
+                              <i class="bi bi-pencil-square"></i>  
+                           </a>
+                           <a onclick=Delete("/Admin/Categoria/Delete/${data}") class="btn btn-danger text-white" style="cursor:pointer">
                                 <i class="bi bi-trash3-fill"></i>
-                            </a>
+                           </a> 
                         </div>
-
                     `;
-                },"width":"20%"
+                }, "width": "20%"
             }
-
         ]
-    })
+
+    });
 }
-
-
 
 function Delete(url) {
 

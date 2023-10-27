@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\77d6ac72-653d-4652-b68a-28253a9c2c93.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\77d6ac72-653d-4652-b68a-28253a9c2c93.JPG"
+    },
+    {
       "Id": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -23,6 +27,10 @@
     {
       "Id": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\produc.js",
+      "PackagePath": "staticwebassets\\js\\produc.js"
     },
     {
       "Id": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\js\\site.js",
