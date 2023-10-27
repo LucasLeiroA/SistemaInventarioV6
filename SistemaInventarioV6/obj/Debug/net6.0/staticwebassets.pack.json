@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
+      "Id": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\084f6865-bf3c-4b32-bff1-25df030b46f2.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\084f6865-bf3c-4b32-bff1-25df030b46f2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\55da0b67-6574-4fdd-a188-513f64679dd4.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\55da0b67-6574-4fdd-a188-513f64679dd4.JPG"
+    },
+    {
       "Id": "C:\\Users\\lucas\\OneDrive\\Escritorio\\CURSO ASPNET UDEMY\\SistemaInventarioV6\\SistemaInventarioV6\\wwwroot\\imagenes\\producto\\77d6ac72-653d-4652-b68a-28253a9c2c93.JPG",
       "PackagePath": "staticwebassets\\imagenes\\producto\\77d6ac72-653d-4652-b68a-28253a9c2c93.JPG"
     },
